@@ -27,13 +27,13 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "hi",
-        "Yo guys",
-        "Wsp yall"
+        "Join SoulSMP's Official Discord Server for Help.",
+        "SoulSMP On Top",
+        "Haunt and vane are hot"
       ]
     },
     "chat-log": true,
@@ -82,6 +82,6 @@
     }
   },
   "chat": {
-    "respond": true
+    "respond": false
   }
 }
