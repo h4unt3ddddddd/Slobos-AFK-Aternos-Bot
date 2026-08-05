@@ -1,4 +1,4 @@
-"use strict";
+A"use strict";
 
 const { addLog, getLogs } = require("./logger");
 const mineflayer = require("mineflayer");
